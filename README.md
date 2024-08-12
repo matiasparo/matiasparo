@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Matías Parodi
 
-### Systems Engineer | Software Developer
+### Software Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matiasparodi/)
 
@@ -45,19 +45,6 @@ I am a passionate systems engineer with experience in software development. I sp
 - ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 - ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 - ![CI/CD](https://img.shields.io/badge/CI%2FCD-00427E?style=for-the-badge&logo=continuousintegration&logoColor=white)
-
----
-
-## 🌟 Featured Projects
-
-### [Project 1](https://github.com/your-username/project1)
-A brief description of the project, technologies used, and notable achievements.
-
-### [Project 2](https://github.com/your-username/project2)
-A brief description of the project, technologies used, and notable achievements.
-
-### [Project 3](https://github.com/your-username/project3)
-A brief description of the project, technologies used, and notable achievements.
 
 ---
 
